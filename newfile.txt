@@ -1,1 +1,3 @@
-Hello world master
+<<<<<<< HEAD
+Hello world Everyone
+>>>>>>> my-new-branch
